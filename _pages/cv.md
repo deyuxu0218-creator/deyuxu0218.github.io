@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can download my full CV here:  
-📄 [Download My CV (PDF)](../files/CV_PhD_Application.pdf)
+📄 [Download My CV (PDF)](../files/CV_PhD_Deyu_Xu.pdf)
 
 ---
 
