@@ -18,19 +18,15 @@ url: "https://deyuxu0218-creator.github.io"
 baseurl: ""
 repository               : "deyuxu/deyuxu0218.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name: "Deyu Xu"
+  bio: "Master’s student in Statistics at the University of Connecticut."
+  avatar: "/images/profile.jpg"
+  email: "vqp24001@uconn.edu"
+  location: "Connecticut, USA"
+  affiliation: "University of Connecticut"
+  github: "https://github.com/deyuxu0218-creator"
+
 
   # Academic websites
   academia         : # URL
