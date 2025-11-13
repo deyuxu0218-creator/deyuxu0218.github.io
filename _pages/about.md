@@ -1,23 +1,22 @@
 ---
-layout: about
-title: About
+layout: single
+title: About Me
 permalink: /about/
 author_profile: true
 ---
 
-## About Me
+I am a master’s student in **Statistics** at the **University of Connecticut (UConn)**, where my coursework and research focus on *statistical modeling*, *Bayesian inference*, and *applied probability*.
 
-I am a master’s student in **Statistics** at the **University of Connecticut**, where my coursework and research focus on *statistical modeling, Bayesian inference, and applied probability*.  
-My research interests lie broadly in **Bayesian Inference**, **Time Series Analysis**, **Machine Learning**, and **Applied Probability**, with applications to **actuarial science, risk modeling, and data-driven decision making**.
+My research interests lie broadly in:
+
+- **Bayesian Inference**
+- **Time Series Analysis**
+- **Machine Learning**
+- **Applied Probability**
 
 Before joining UConn, I earned my **B.E. in Statistics** from **Shandong University**, where I developed a strong foundation in statistical theory and computational methods.  
 My undergraduate research explored the impact of stochastic interest rates on actuarial present value estimation and pension fund modeling.
 
-I am passionate about connecting rigorous statistical methods with real-world applications and am actively preparing for **Ph.D. studies in Statistics**.
+I am passionate about connecting rigorous statistical methods with real-world applications and preparing for **Ph.D. studies in Statistics**.
 
 Beyond academics, I enjoy **basketball** and **fitness**, which help me stay focused and energized.
-
----
-
-📄 [Download My CV](../files/CV_PhD_Application.pdf)  
-🔗 [GitHub](https://github.com/ids24f/final-project-DeyuXu-Drew) · [Email](mailto:vqp24001@uconn.edu)
