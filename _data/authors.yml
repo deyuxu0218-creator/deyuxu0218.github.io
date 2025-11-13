@@ -3,7 +3,8 @@ deyuxu0218-creator:
   uri         : "https://deyuxu0218-creator.github.io"
   email       : "vqp24001@uconn.edu"
   bio         : "Master's student in Statistics at the University of Connecticut."
-  avatar      : "/images/profile.jpg"
+ avatar: "/images/profile.jpg"
+
 
   location    : "Connecticut, USA"
   affiliation : "University of Connecticut"
